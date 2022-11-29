@@ -3,26 +3,23 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:WpfApp1"
-        mc:Ignorable="d"
-        Title="Test Programm" Height="450" Width="345" ResizeMode="NoResize">
-    <Window.Resources>
-        <ResourceDictionary>
-            <ResourceDictionary.MergedDictionaries>
-                <ResourceDictionary Source="/Resource.xaml"/>
-            </ResourceDictionary.MergedDictionaries>
-        </ResourceDictionary>
-    </Window.Resources>
+        mc:Ignorable="d"    
+        
+        Title="Test Programm" Height="450" Width="345" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+
+
+
+
     <Grid Margin="0,0,0,-6">
         <Button Content="Calculate" Margin="105,217,115,0" VerticalAlignment="Top" Click="Button_Click"/>
 
         <TextBox   PreviewTextInput="one_PreviewTextInput" Margin="50,56,49,0" TextWrapping="Wrap"  VerticalAlignment="Top" x:Name="one" Height="23"/>
 
-        <TextBox  PreviewTextInput="one_PreviewTextInput" Margin="46,0,53,253" TextWrapping="Wrap" x:Name="two" Height="23" VerticalAlignment="Bottom"/>
+        <TextBox  PreviewTextInput="one_PreviewTextInput" Margin="50,164,49,0" TextWrapping="Wrap" x:Name="two" Height="23" VerticalAlignment="Top"/>
 
         <Label Content="One" HorizontalAlignment="Left" Margin="153,25,0,0" VerticalAlignment="Top"/>
-        <Label Content="Two" HorizontalAlignment="Left" Margin="153,108,0,0" VerticalAlignment="Top"/>
-        <TextBlock Style="{StaticResource TitleText}" HorizontalAlignment="Left" Margin="144,298,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
+        <Label   Content="Two" HorizontalAlignment="Left" Margin="153,108,0,0" VerticalAlignment="Top"/>
+        <TextBlock  x:Name="res"  HorizontalAlignment="Left" Margin="106,276,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" FontFamily="Segoe Script" FontSize="24" FontWeight="Bold" TextAlignment="Center" Foreground="#FF75B927"/>
 
     </Grid>
 </Window>

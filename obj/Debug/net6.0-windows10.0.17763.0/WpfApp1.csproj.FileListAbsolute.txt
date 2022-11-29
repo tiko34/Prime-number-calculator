@@ -9,11 +9,8 @@ C:\Users\User\source\repos\WpfApp1\obj\Debug\net6.0-windows10.0.17763.0\WpfApp1.
 C:\Users\User\source\repos\WpfApp1\obj\Debug\net6.0-windows10.0.17763.0\MainWindow.g.cs
 C:\Users\User\source\repos\WpfApp1\obj\Debug\net6.0-windows10.0.17763.0\App.g.cs
 C:\Users\User\source\repos\WpfApp1\obj\Debug\net6.0-windows10.0.17763.0\WpfApp1_MarkupCompile.cache
-C:\Users\User\source\repos\WpfApp1\obj\Debug\net6.0-windows10.0.17763.0\WpfApp1_MarkupCompile.lref
 C:\Users\User\source\repos\WpfApp1\obj\Debug\net6.0-windows10.0.17763.0\MainWindow.baml
 C:\Users\User\source\repos\WpfApp1\obj\Debug\net6.0-windows10.0.17763.0\WpfApp1.g.resources
-C:\Users\User\source\repos\WpfApp1\obj\Debug\net6.0-windows10.0.17763.0\WpfApp1.Properties.Resources.resources
-C:\Users\User\source\repos\WpfApp1\obj\Debug\net6.0-windows10.0.17763.0\WpfApp1.csproj.GenerateResource.cache
 C:\Users\User\source\repos\WpfApp1\obj\Debug\net6.0-windows10.0.17763.0\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\User\source\repos\WpfApp1\obj\Debug\net6.0-windows10.0.17763.0\WpfApp1.AssemblyInfoInputs.cache
 C:\Users\User\source\repos\WpfApp1\obj\Debug\net6.0-windows10.0.17763.0\WpfApp1.AssemblyInfo.cs
@@ -24,3 +21,8 @@ C:\Users\User\source\repos\WpfApp1\obj\Debug\net6.0-windows10.0.17763.0\refint\W
 C:\Users\User\source\repos\WpfApp1\obj\Debug\net6.0-windows10.0.17763.0\WpfApp1.pdb
 C:\Users\User\source\repos\WpfApp1\obj\Debug\net6.0-windows10.0.17763.0\WpfApp1.genruntimeconfig.cache
 C:\Users\User\source\repos\WpfApp1\obj\Debug\net6.0-windows10.0.17763.0\ref\WpfApp1.dll
+C:\Users\User\source\repos\WpfApp1\bin\Debug\net6.0-windows10.0.17763.0\WpfApp1.dll.config
+C:\Users\User\source\repos\WpfApp1\obj\Debug\net6.0-windows10.0.17763.0\Res\Resource.baml
+C:\Users\User\source\repos\WpfApp1\bin\Debug\net6.0-windows10.0.17763.0\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\source\repos\WpfApp1\bin\Debug\net6.0-windows10.0.17763.0\Stira.Converters.Wpf.dll
+C:\Users\User\source\repos\WpfApp1\bin\Debug\net6.0-windows10.0.17763.0\FlatStyle.dll

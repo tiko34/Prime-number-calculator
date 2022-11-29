@@ -5,7 +5,17 @@
   },
   "compilationOptions": {},
   "targets": {
-    ".NETCoreApp,Version=v6.0": {}
+    ".NETCoreApp,Version=v6.0": {
+      "WPFThemes.DarkBlend/1.0.8": {}
+    }
   },
-  "libraries": {}
+  "libraries": {
+    "WPFThemes.DarkBlend/1.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eVHvWXPk7Q/T2TJ84eUIbYavHPOsJFZ8pbwq+Gh4rIsVl6MzuJO+AWCOYXRAlkt3bz5yFF40zt1bc1DSHabUaQ==",
+      "path": "wpfthemes.darkblend/1.0.8",
+      "hashPath": "wpfthemes.darkblend.1.0.8.nupkg.sha512"
+    }
+  }
 }

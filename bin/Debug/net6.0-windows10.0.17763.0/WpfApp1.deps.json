@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "WpfApp1/1.0.0": {
         "dependencies": {
+          "Stira.WpfFlatStyle": "1.9.3",
           "runtimepack.Microsoft.Windows.SDK.NET.Ref": "10.0.17763.27"
         },
         "runtime": {
@@ -25,6 +26,34 @@
             "fileVersion": "2.0.0.39961"
           }
         }
+      },
+      "Microsoft.Xaml.Behaviors.Wpf/1.1.37": {
+        "runtime": {
+          "lib/net5.0-windows7.0/Microsoft.Xaml.Behaviors.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.37.31167"
+          }
+        }
+      },
+      "Stira.Converters.Wpf/1.0.2": {
+        "runtime": {
+          "lib/netcoreapp3.0/Stira.Converters.Wpf.dll": {
+            "assemblyVersion": "1.0.2.0",
+            "fileVersion": "1.0.2.0"
+          }
+        }
+      },
+      "Stira.WpfFlatStyle/1.9.3": {
+        "dependencies": {
+          "Microsoft.Xaml.Behaviors.Wpf": "1.1.37",
+          "Stira.Converters.Wpf": "1.0.2"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/FlatStyle.dll": {
+            "assemblyVersion": "1.9.3.0",
+            "fileVersion": "1.9.3.0"
+          }
+        }
       }
     }
   },
@@ -38,6 +67,27 @@
       "type": "runtimepack",
       "serviceable": false,
       "sha512": ""
+    },
+    "Microsoft.Xaml.Behaviors.Wpf/1.1.37": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TxH7g5I/4UzOHfs0GqD1W4evdl7DIHOQCr/KWc4G4BkgtsAhaHHXAW5JbKrkB7cqClN0JYOX6j9/4v4emCjFIA==",
+      "path": "microsoft.xaml.behaviors.wpf/1.1.37",
+      "hashPath": "microsoft.xaml.behaviors.wpf.1.1.37.nupkg.sha512"
+    },
+    "Stira.Converters.Wpf/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-P/DrLcvvrWs4awtyC3gpuSroxJmL0/55JbyN/IrVWY5hYXEJ1n4Bz5IZxwLf96yu6L/nYOE+8pLhUgNVJQJoOQ==",
+      "path": "stira.converters.wpf/1.0.2",
+      "hashPath": "stira.converters.wpf.1.0.2.nupkg.sha512"
+    },
+    "Stira.WpfFlatStyle/1.9.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gosIzDOnSpcsR1LGjLIjhSq7OK6MChxz5cRdlQw87cYt/nQSlOKhC5x9RsqUSsOFgRGqNKDI+Z+n71vAGI9ZKg==",
+      "path": "stira.wpfflatstyle/1.9.3",
+      "hashPath": "stira.wpfflatstyle.1.9.3.nupkg.sha512"
     }
   }
 }

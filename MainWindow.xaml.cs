@@ -33,7 +33,7 @@ namespace WpfApp1
             try
             {
                 int a = System.Convert.ToInt32(one.Text) + System.Convert.ToInt32(two.Text);
-                MessageBox.Show(System.Convert.ToString(a));
+               res.Text=System.Convert.ToString(a);
             }
             catch (Exception)
             {
