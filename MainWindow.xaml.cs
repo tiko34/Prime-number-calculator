@@ -32,13 +32,13 @@ namespace WpfApp1
         {
             try
             {
-                int a = System.Convert.ToInt32(one.Text) + System.Convert.ToInt32(two.Text);
+               int a = System.Convert.ToInt32(one.Text) + System.Convert.ToInt32(two.Text);
                res.Text=System.Convert.ToString(a);
             }
             catch (Exception)
             {
 
-                MessageBox.Show("Некорретный ввод чисел");
+                MessageBox.Show("Incorrect input");
             }
           
                
