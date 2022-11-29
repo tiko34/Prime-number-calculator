@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8zxydCzPcRacvZDjyAOKTqCC4GIDg8s21GSp162JeVKuJI0zBNWluKW4bg3GntHQ/0Kn/cM7FSMjQXLTsEaIYQ==",
+  "dgSpecHash": "6MMbtpWbiVfvPp5cI3ajE7QemqHTRUr1RO8KG4AnNfWn9HiPS9vBG1ICGjqly8Et8I3BfchHMBACFH/g8onrnA==",
   "success": true,
   "projectFilePath": "C:\\Users\\User\\source\\repos\\WpfApp1\\WpfApp1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.27\\microsoft.windows.sdk.net.ref.10.0.17763.27.nupkg.sha512"
+  ],
   "logs": []
 }
